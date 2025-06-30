@@ -1,0 +1,35 @@
+[
+{
+    "availableLanguages": "en",
+    "language": "en",
+    "represents": "projectLogo",
+    "source": "editorial",
+    "title": "",
+    "type": "relatedImage",
+    "uri": "/docs/projects/files/101/101119806/251305.jpg"
+},{
+    "availableLanguages": "en,any",
+    "language": "en",
+    "represents": "",
+    "source": "editorial",
+    "title": "PRESS RELEASE CARE4CARE Kick-Off Meeting",
+    "type": "relatedPrint",
+    "uri": "/docs/project/press-release-kom-before-event-def-ed-65.pdf"
+},{
+    "availableLanguages": "any",
+    "language": "any",
+    "represents": "projectLogo",
+    "source": "editorial",
+    "title": "",
+    "type": "relatedImage",
+    "uri": "/docs/projects/files/101/101095303/243751.png"
+},{
+    "availableLanguages": "en,any",
+    "language": "en",
+    "represents": "projectLogo",
+    "source": "editorial",
+    "title": "",
+    "type": "relatedImage",
+    "uri": "/docs/projects/files/101/101075659/240868.jpg"
+}
+]
